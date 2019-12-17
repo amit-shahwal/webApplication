@@ -1,0 +1,61 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  
+  
+
+    /* The image used */
+    background-image: url("pic.jpg");
+  
+    /* Full height */
+    height: 100%; 
+    
+    
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+  }
+  
+  #b3
+  {
+    border-color:silver;
+    border-width: 1px;
+    box-shadow: white;
+    
+    border-radius: 45px;
+    outline: none;
+      background-color: darkslateblue;
+      color: blanchedalmond;
+      font-family: sans-serif;
+     
+  }
+  #b2,#b1
+  {
+        
+        padding-left: 20px;
+    border-radius: 15px;
+      background-color:#d1d1d1;
+      color: black;
+      outline: none;
+      width: 260px;
+  height: 25px;
+      font-family: "calibri";  
+   
+  }
+  #flames
+  {
+      font-family: comic sans ms;
+      
+  }
+  #print
+  {
+      font-family: calibri;
+      text-decoration: underline;
+      text-decoration-style:dotted ;
+      
+      text-decoration-color: cornsilk;
+      text-underline-position: below;
+  }
