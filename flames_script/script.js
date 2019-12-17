@@ -89,7 +89,7 @@ for(i=0;i<boy_name.length;i++)
 
         }
         
-        total=(boy_name.length+girl_name.length)-count-2;
+        total=(boy_name.length-girl_name.length)-count-2;
       var  t=total+6;
         total=t;
       //alert(total)
