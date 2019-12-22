@@ -1,0 +1,75 @@
+#t1,#t2
+{
+position: relative;
+border-style: solid;
+border-color:black;
+
+
+margin-top: 32px;
+line-height: 1px;
+
+
+
+
+
+
+
+
+}
+#t1 tr,#t2 tr
+{
+
+background-color:lightslategray;
+width: 1px;
+
+
+
+}
+#t1 td,#t2,td
+{
+
+
+font-size: 11px;
+padding:5px;
+font-weight: bold;
+line-height: 1px;
+width: 1px;
+
+
+column-width: 100px;
+
+
+}
+#t1 th,#t2,th
+
+{
+
+
+    font-size: 11px;
+    padding: 14px;
+    color: maroon;
+ 
+    
+        
+    }
+    #y1
+    {
+        font-size: 42px;
+
+        text-decoration: underline;
+
+
+    }
+#s1
+{
+    width: 4cm;
+height: 1cm;
+background-color:rgb(72, 79, 87);
+border-radius: 3px;
+border-color: black;
+outline: none;
+border-radius: 7px;
+color: white;
+font-size: 20px;
+
+}

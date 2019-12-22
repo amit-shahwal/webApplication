@@ -1,0 +1,56 @@
+#s1
+{
+
+height: 100px;
+width: 100px;
+
+}
+.l1
+{
+
+    border:3px ;
+    border-style: solid;
+    border-color: black;
+    width: 350px;
+    height: 500px;
+    border-radius: 22px;
+}
+#iusername,#ipassword
+{
+background-color:   lightgray;
+outline: none;
+border-radius: 50px;
+border-color: black;
+padding-left: 10px;
+width:250px;
+height: 33px;
+color:black;
+text-decoration: solid;
+
+}
+#ilogin
+{
+position: relative;
+background-color: green;
+outline: none;
+border-style: solid;
+border-color: black;
+border-radius: 14px;
+color: cornsilk;
+width: 90px;
+height: 30px;
+margin-top: 58px;
+border-width: 1px;
+
+}
+#h1
+{
+
+    font-size: 40px;
+    font-style: bold;
+    color: white;
+}
+body
+{
+    background-image: url("sky.jpg");
+}

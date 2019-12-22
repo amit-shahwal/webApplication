@@ -1,0 +1,28 @@
+#t1
+{
+
+border-style: solid;
+border-color: bisque;
+
+padding: 12px;
+
+
+
+
+
+}
+#t1 tr
+{
+
+background-color: crimson;
+
+
+
+}
+#t1 td,th{
+
+size: 12px;
+font-size: 50px;
+padding: 14px;
+
+}

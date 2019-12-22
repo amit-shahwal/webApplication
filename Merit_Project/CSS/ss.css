@@ -1,0 +1,53 @@
+#t1
+{
+position: relative;
+border-style: solid;
+border-color:black;
+
+padding: 12px;
+margin-top: 32px;
+
+
+
+
+
+
+
+}
+#t1 tr
+{
+
+background-color:lightslategray;
+
+
+
+}
+#t1 td{
+
+
+font-size: 19px;
+padding: 14px;
+font-weight: bold;
+
+text-align: center;
+
+
+
+
+}
+#t1 th{
+
+
+    font-size: 16px;
+    padding: 14px;
+    color: maroon;
+        
+    }
+    #y1
+    {
+        font-size: 42px;
+
+        text-decoration: underline;
+
+
+    }
