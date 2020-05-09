@@ -1,0 +1,45 @@
+input[type=text]
+{
+
+width: 200px;
+height: 26px;
+background-color: #d1d1d1;
+font-weight: bold;
+text-decoration-color: white;
+border-color: maroon;
+border-radius: 10px;
+outline: none;
+padding-left: 10px;
+
+}
+input[type=number]
+{
+
+margin-left: 20px;
+height: 26px;
+background-color:white;
+font-weight: bold;
+border-color:green;
+border-radius: 60px;
+outline: none;
+padding-left: 10px;
+
+
+}
+input[type=submit]
+{
+
+width: 4cm;
+height: 1cm;
+background-color: teal;
+border-radius: 3px;
+border-color: black;
+outline: none;
+border-radius: 50px;
+
+
+}
+body
+{
+    background-image: url("sky.jpg");
+}
